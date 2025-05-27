@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: FoxholeLogiTracker
+  liquibase:
+    change-log: "classpath:/db/changelog/db.changelog-master.xml"
+database:
+  user: postgres
+  pass: postgres
+  url: jdbc:postgresql://localhost:5331/postgres?

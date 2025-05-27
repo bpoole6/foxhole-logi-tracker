@@ -1,0 +1,8 @@
+faction
+region
+stockpile
+stockpile_category
+
+role_type
+
+user
